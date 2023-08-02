@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+body ,nav ,h1{
+  font-family: 'Rubik', sans-serif;
+}  
+nav h1{
+  text-align: center;
+}
+#about {
+  text-align:center;
+  padding: 10px;
+}
+#about img {
+  padding: 6px;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #b8c1de;
+  border-radius: 10rem;
+}
+footer {
+  background-color : #038cfc;
+  height: 40px;
+  font-family: 'Rubik', sans-serif;
+}
+footer h5{
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+#about p{
+  font-family: 'Noto Serif Khmer', serif,'Rubik', sans-serif;
+  background-color: #dfe7ed;
+}
+#contact h1{
+  text-align: center;
+  font-size: 15px;
+}
+#contact p {
+  color: #038cfc;
+  text-align: center;
+}
+#about h1{
+  font-size: 15px;
+}
+#icon {
+  text-align: center;
+  letter-spacing: 10px;
+  font-size: 20px;
+  margin-left: 9.5px;
+}
+#icon a i {
+  color: #aaaaaa;
+}
+#icon a i:hover {
+  color: #038cfc;
+}
